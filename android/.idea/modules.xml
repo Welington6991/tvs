@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/TVS.iml" filepath="$PROJECT_DIR$/.idea/modules/TVS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/TVS.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/TVS.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/247116980/TVS.react-native-async-storage_async-storage.iml" filepath="$PROJECT_DIR$/.idea/modules/247116980/TVS.react-native-async-storage_async-storage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1003585936/TVS.react-native-community_masked-view.iml" filepath="$PROJECT_DIR$/.idea/modules/-1003585936/TVS.react-native-community_masked-view.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/421286273/TVS.react-native-easy-downloader.iml" filepath="$PROJECT_DIR$/.idea/modules/421286273/TVS.react-native-easy-downloader.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/535192740/TVS.react-native-file-viewer.iml" filepath="$PROJECT_DIR$/.idea/modules/535192740/TVS.react-native-file-viewer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/2123474023/TVS.react-native-gesture-handler.iml" filepath="$PROJECT_DIR$/.idea/modules/2123474023/TVS.react-native-gesture-handler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1939667441/TVS.react-native-orientation.iml" filepath="$PROJECT_DIR$/.idea/modules/1939667441/TVS.react-native-orientation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1200439056/TVS.react-native-safe-area-context.iml" filepath="$PROJECT_DIR$/.idea/modules/1200439056/TVS.react-native-safe-area-context.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-345427160/TVS.react-native-screens.iml" filepath="$PROJECT_DIR$/.idea/modules/-345427160/TVS.react-native-screens.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/700812194/TVS.react-native-send-intent.iml" filepath="$PROJECT_DIR$/.idea/modules/700812194/TVS.react-native-send-intent.iml" />
+    </modules>
+  </component>
+</project>
